@@ -66,9 +66,9 @@ function SearchSection() {
 export default function ProductsPage() {
   return (
     <div class="bg-slate-50 min-h-screen">
-      <div class="container mx-auto px-4 py-12">
+      <div class="container mx-auto px-4 py-6">
         <Flex class="flex-col items-center mb-10">
-          <Text variant="h1" class="text-3xl font-bold">Our Collection</Text>
+          <Text variant="h5" class="text-3xl font-bold">Our Collection</Text>
           <Text class="text-slate-500 mt-2">Latest tech and gadgets</Text>
         </Flex>
         
